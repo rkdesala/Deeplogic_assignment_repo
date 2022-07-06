@@ -1,7 +1,8 @@
-const https = require("node:https");
+const https = require("https");
 const http = require("http");
 const fs = require("fs");
-
+//https, http, fs are default modules with node js....
+//https is used for fetching html page from times
 ///Function to fload html paga data
 function getdataonrequest(cb) {
   let data = "";
@@ -53,7 +54,7 @@ function getdataonrequest(cb) {
 }
 ////////////////////////////////////////SERVER///////////////////////////////////////
 http
-  .createServer(async function (request, response) {
+  .createServer(function (request, response) {
     if (request.url === "/") {
       response.writeHead(200, { "Content-Type": "text/html" });
       response.write(`<h1>WELCOME TO TIME LATEST NEWS API</h1>`);
@@ -61,6 +62,7 @@ http
     } else if (request.url === "/getTimeStories") {
       console.log("Received request" + " " + request.url);
       ///calling function
+
       getdataonrequest(function (latestnews) {
         console.log("data received to call back function");
         response.writeHead(200, { "Content-Type": "application/json" });
