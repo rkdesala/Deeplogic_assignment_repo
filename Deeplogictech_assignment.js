@@ -1,9 +1,10 @@
 const https = require("node:https");
 const http = require("http");
 const fs = require("fs");
-let data = "";
+
 ///Function to fload html paga data
 function getdataonrequest(cb) {
+  let data = "";
   https
     .get("https://time.com", (res) => {
       res.on("data", (d) => {
@@ -29,6 +30,7 @@ function getdataonrequest(cb) {
           let siglelink = mainDataRemoveaHref[i].toString().split(`<a href="/`);
           let timesplussinglelink = "https://time.com/" + siglelink[1];
           let everynews = siglenews[1].toString().trim();
+          everynews = everynews.replace(/<\/?[^>]+(>|$)/g, "");
           singleNewsObject.title = everynews.slice(1);
           singleNewsObject.link = timesplussinglelink;
           latestnewsarray.push(singleNewsObject);
