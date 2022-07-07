@@ -2,51 +2,51 @@
           <h2 class="latest-stories__heading">Latest Stories</h2>
           <ul>
             <li class="latest-stories__item">
-              <a href="/6193886/gretchen-whitmer-michigan-abortion-interview/">
-                <h3 class="latest-stories__item-headline">Governor Gretchen Whitmer on Her Fight for Abortion Access in Michigan</h3>
+              <a href="/6194287/musk-twins-neuralink-executive/">
+                <h3 class="latest-stories__item-headline">Musk Reportedly Fathered Twins With a Neuralink Executive Last Year</h3>
               </a>
               <time class="latest-stories__item-timestamp">
-                July 6, 2022 • 11:06 AM EDT
+                July 7, 2022 • 1:24 AM EDT
               </time>
             </li>
             <li class="latest-stories__item">
-              <a href="/6194050/mohammad-barkindo-obituary/">
-                <h3 class="latest-stories__item-headline">Mohammad Barkindo, OPEC Secretary-General, Dies at 63</h3>
+              <a href="/6194220/uvalde-school-shooting-report/">
+                <h3 class="latest-stories__item-headline">Uvalde Officer Missed Chance to Shoot Gunman: Report</h3>
               </a>
               <time class="latest-stories__item-timestamp">
-                July 6, 2022 • 10:59 AM EDT
+                July 6, 2022 • 6:07 PM EDT
               </time>
             </li>
             <li class="latest-stories__item">
-              <a href="/6193896/safest-sunscreen-to-buy/">
-                <h3 class="latest-stories__item-headline">The Safest Sunscreens to Buy—and Which Ingredients to Avoid</h3>
+              <a href="/6194257/pharmacists-prescribe-paxlovid-covid-19/">
+                <h3 class="latest-stories__item-headline">Pharmacists Can Now Prescribe Paxlovid</h3>
               </a>
               <time class="latest-stories__item-timestamp">
-                July 6, 2022 • 10:58 AM EDT
+                July 6, 2022 • 6:01 PM EDT
               </time>
             </li>
             <li class="latest-stories__item">
-              <a href="/6194014/germany-permanent-residency-migrants/">
-                <h3 class="latest-stories__item-headline">Germany Eases Path to Permanent Residency for Migrants</h3>
+              <a href="/6194223/california-inflation-relief-states/">
+                <h3 class="latest-stories__item-headline">Why California Could Be the Last State to Offer Inflation Relief Checks</h3>
               </a>
               <time class="latest-stories__item-timestamp">
-                July 6, 2022 • 10:14 AM EDT
+                July 6, 2022 • 5:49 PM EDT
               </time>
             </li>
             <li class="latest-stories__item">
-              <a href="/6193895/hope-after-roe-v-wade-overturned/">
-                <h3 class="latest-stories__item-headline">I Refuse to Give Up Hope After <em>Roe</em></h3>
+              <a href="/6194179/abortion-restrictions-methotrexate-cancer-arthritis/">
+                <h3 class="latest-stories__item-headline">Abortion Restrictions May Be Making It Harder for Patients to Get a Cancer and Arthritis Drug</h3>
               </a>
               <time class="latest-stories__item-timestamp">
-                July 6, 2022 • 9:40 AM EDT
+                July 6, 2022 • 5:48 PM EDT
               </time>
             </li>
             <li class="latest-stories__item">
-              <a href="/6194012/fda-suspends-juul-ban/">
-                <h3 class="latest-stories__item-headline">FDA Temporarily Suspends Order Banning Juul E-Cigarettes</h3>
+              <a href="/6193797/abortion-movies-tv-depictions/">
+                <h3 class="latest-stories__item-headline">How Depictions of Abortion in Movies and TV Have Changed</h3>
               </a>
               <time class="latest-stories__item-timestamp">
-                July 6, 2022 • 9:38 AM EDT
+                July 6, 2022 • 5:38 PM EDT
               </time>
             </li>
           </ul>

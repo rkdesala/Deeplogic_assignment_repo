@@ -31,7 +31,9 @@ function getdataonrequest(cb) {
           let siglelink = mainDataRemoveaHref[i].toString().split(`<a href="/`);
           let timesplussinglelink = "https://time.com/" + siglelink[1];
           let everynews = siglenews[1].toString().trim();
-          everynews = everynews.replace(/<\/?[^>]+(>|$)/g, "");
+          everynews = everynews.replace(/<\/?[^>]+(>|$)/g, ""); // This Reg expression is
+          //used for to remove any html tags in the title of latest stories which used
+          //for styling the word in in that title
           singleNewsObject.title = everynews.slice(1);
           singleNewsObject.link = timesplussinglelink;
           latestnewsarray.push(singleNewsObject);
